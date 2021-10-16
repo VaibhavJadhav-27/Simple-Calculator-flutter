@@ -1,16 +1,8 @@
 # simplecalc
+This is a cross-platform application which can be installed in Android or Iphone environment
+This is a basic calculator application.
+Following are the images of application:
 
-A new Flutter project.
+![1](https://user-images.githubusercontent.com/43025108/137590970-89cf5e32-1441-49e6-ae79-5a2730a608d7.JPG)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://user-images.githubusercontent.com/43025108/137590973-5cdd10be-c7b0-4e6e-aaac-0119e56afe92.JPG)
