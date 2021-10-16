@@ -3,6 +3,6 @@ This is a cross-platform application which can be installed in Android or Iphone
 This is a basic calculator application.
 Following are the images of application:
 
-![1](https://user-images.githubusercontent.com/43025108/137590970-89cf5e32-1441-49e6-ae79-5a2730a608d7.JPG)
+![1](https://user-images.githubusercontent.com/43025108/137591006-c3ff8e58-8fac-4ab9-81a0-738db019dc54.JPG)
 
-![2](https://user-images.githubusercontent.com/43025108/137590973-5cdd10be-c7b0-4e6e-aaac-0119e56afe92.JPG)
+![2](https://user-images.githubusercontent.com/43025108/137591008-d0399a4f-a833-4fd6-97ad-99df4c0d58a4.JPG)
