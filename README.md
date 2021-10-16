@@ -1,4 +1,4 @@
-# simplecalc
+# Simple Calculator
 This is a cross-platform application which can be installed in Android or Iphone environment
 This is a basic calculator application.
 Following are the images of application:
